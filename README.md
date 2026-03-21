@@ -1,2 +1,3 @@
-# micro-travel-planner-j0jd
-A travel planning application for modern development workflows
+# Micro Travel Planner J0Jd
+
+A travel planning application for modern development workflows.
